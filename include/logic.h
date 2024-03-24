@@ -1,3 +1,10 @@
+#pragma once
+
+/**
+ * @brief Greet the user
+ *
+ */
+
 int add(int first_number, int second_number);
 int subtract(int first_number, int second_number);
 int multiply(int first_number, int second_number);

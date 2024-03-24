@@ -5,7 +5,6 @@ project(
     VERSION 1.2.0
     DESCRIPTION "CMake C Project template for Operative Systems II"
     LANGUAGES C
-    #AUTHOR "Landaeta Ezequiel Matias"
 )
 
 # Enable testing and add the tests 

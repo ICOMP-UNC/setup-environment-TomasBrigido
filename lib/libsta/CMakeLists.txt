@@ -20,4 +20,3 @@ file(GLOB_RECURSE SOURCES "src/*.c")
 
 #Create the executable
 add_library(${PROJECT_NAME} STATIC ${SOURCES})
-
